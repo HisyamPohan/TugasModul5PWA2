@@ -1,0 +1,12 @@
+#footer{
+    height:50px;
+    line-height:17px;
+    background:#6666C1;
+    color:#fff;
+ 
+    position:absolute;
+    bottom:0px;
+    /*left:0;*/
+    width:100%; /*biar memenuhi layar*/
+    
+}
